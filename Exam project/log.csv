@@ -1,1 +1,2 @@
 id;project;connector_type;t;delta_t;url;redirect_url;response_size;response_code;success;error
+0;grades;requests;1566299459.0100262;-0.2817673683166504;http://karakterstatistik.stads.ku.dk/Histogram/SFAK18001E/Winter-2018/B1;http://karakterstatistik.stads.ku.dk/Histogram/SFAK18001E/Winter-2018/B1;12977;200;True;
