@@ -1181,3 +1181,4 @@ id;project;connector_type;t;delta_t;url;redirect_url;response_size;response_code
 198;study_board_years_archives_links;requests;1566546167.599057;-0.21874070167541504;https://kurser.ku.dk/archive/2013-2014/STUDYBOARD_0014;https://kurser.ku.dk/archive/2013-2014/STUDYBOARD_0014;37051;200;True;
 199;study_board_years_archives_links;requests;1566546168.3390615;-0.31243181228637695;https://kurser.ku.dk/archive/2013-2014/STUDYBOARD_0004;https://kurser.ku.dk/archive/2013-2014/STUDYBOARD_0004;72808;200;True;
 200;study_board_years_archives_links;requests;1566546169.2037299;-0.14061927795410156;https://kurser.ku.dk/archive/2013-2014/STUDYBOARD_0023;https://kurser.ku.dk/archive/2013-2014/STUDYBOARD_0023;36079;200;True;
+3;year_archives_links;requests;1566725707.7891936;-0.32842254638671875;https://kurser.ku.dk/archive;https://kurser.ku.dk/archive;25197;200;True;
