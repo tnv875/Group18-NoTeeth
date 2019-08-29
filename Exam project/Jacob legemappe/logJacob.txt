@@ -1,0 +1,16 @@
+id;project;connector_type;t;delta_t;url;redirect_url;response_size;response_code;success;error
+0;url_links;requests;1567057993.9992025;0.0;<Response [200]>;;0;;False;Invalid URL '<Response [200]>': No schema supplied. Perhaps you meant http://<Response [200]>?
+1;url_links;requests;1567057994.4998684;0.0;<Response [200]>;;0;;False;Invalid URL '<Response [200]>': No schema supplied. Perhaps you meant http://<Response [200]>?
+2;url_links;requests;1567057995.0005264;0.0;<Response [200]>;;0;;False;Invalid URL '<Response [200]>': No schema supplied. Perhaps you meant http://<Response [200]>?
+3;url_links;requests;1567057995.5014334;0.0;<Response [200]>;;0;;False;Invalid URL '<Response [200]>': No schema supplied. Perhaps you meant http://<Response [200]>?
+4;url_links;requests;1567057996.0090506;0.0;<Response [200]>;;0;;False;Invalid URL '<Response [200]>': No schema supplied. Perhaps you meant http://<Response [200]>?
+5;url_links;requests;1567058030.8237853;0.0;<Response [200]>;;0;;False;Invalid URL '<Response [200]>': No schema supplied. Perhaps you meant http://<Response [200]>?
+6;url_links;requests;1567058031.3245282;0.0;<Response [200]>;;0;;False;Invalid URL '<Response [200]>': No schema supplied. Perhaps you meant http://<Response [200]>?
+7;url_links;requests;1567058031.82519;0.0;<Response [200]>;;0;;False;Invalid URL '<Response [200]>': No schema supplied. Perhaps you meant http://<Response [200]>?
+8;url_links;requests;1567058032.3270514;0.0;<Response [200]>;;0;;False;Invalid URL '<Response [200]>': No schema supplied. Perhaps you meant http://<Response [200]>?
+9;url_links;requests;1567058032.8286912;0.0;<Response [200]>;;0;;False;Invalid URL '<Response [200]>': No schema supplied. Perhaps you meant http://<Response [200]>?
+10;url_links;requests;1567058039.8797452;-0.000997304916381836;<Response [200]>;;0;;False;Invalid URL '<Response [200]>': No schema supplied. Perhaps you meant http://<Response [200]>?
+11;url_links;requests;1567058040.3807857;0.0;<Response [200]>;;0;;False;Invalid URL '<Response [200]>': No schema supplied. Perhaps you meant http://<Response [200]>?
+12;url_links;requests;1567058040.8810062;0.0;<Response [200]>;;0;;False;Invalid URL '<Response [200]>': No schema supplied. Perhaps you meant http://<Response [200]>?
+13;url_links;requests;1567058041.384633;0.0;<Response [200]>;;0;;False;Invalid URL '<Response [200]>': No schema supplied. Perhaps you meant http://<Response [200]>?
+14;url_links;requests;1567058041.8853238;0.0;<Response [200]>;;0;;False;Invalid URL '<Response [200]>': No schema supplied. Perhaps you meant http://<Response [200]>?
