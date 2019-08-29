@@ -1,0 +1,2 @@
+
+33442;grade_scrape;requests;1567049353.6856868;-0.27355027198791504;http://karakterstatistik.stads.ku.dk/Histogram/HREB00461E/Summer-2014;http://karakterstatistik.stads.ku.dk/Histogram/HREB00461E/Summer-2014;7022;200;True;
